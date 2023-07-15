@@ -1,5 +1,5 @@
 
-package examen.pkgfinal.algoii;
+package modelo;
 
 /**
  *
