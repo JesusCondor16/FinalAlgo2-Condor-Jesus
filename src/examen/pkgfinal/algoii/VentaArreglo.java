@@ -10,5 +10,18 @@ package examen.pkgfinal.algoii;
  * @author user
  */
 public class VentaArreglo {
+    private int indice;
+
+    public VentaArreglo(int indice) {
+        this.indice = indice;
+    }
+
+    public int getIndice() {
+        return indice;
+    }
+
+    public void setIndice(int indice) {
+        this.indice = indice;
+    }
     
 }

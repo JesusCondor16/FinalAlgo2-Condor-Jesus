@@ -13,6 +13,12 @@ public class Trabajador {
     private String password;
     private String email;
 
+    public Trabajador(String password, String email) {
+        this.password = password;
+        this.email = email;
+    }
+    
+
     public String getPassword() {
         return password;
     }
